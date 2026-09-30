@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.vscode/
+desktop.ini
+~$*
+RECORDINGS/
+*.docx
+*.mp4
+*.mov
+*.avi
+*.mkv
